@@ -105,3 +105,4 @@ if __name__ == "__main__":
     collect_data()
     update_html_with_latest_data()
     print("Data collection complete. To generate chart, run generate_chart.py")
+# Owner: @google-labs-jules[bot]

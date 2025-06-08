@@ -559,3 +559,4 @@ def update_github_pages(df):
 
 if __name__ == "__main__":
     generate_chart()
+# Owner: @google-labs-jules[bot]
